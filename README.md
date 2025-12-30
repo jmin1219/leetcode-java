@@ -19,10 +19,25 @@ src/
 │   ├── Solution_020_ValidParentheses.java
 │   ├── Solution_155_MinStack.java
 │   └── Solution_739_DailyTemperatures.java
-└── queues/
-    ├── MyQueue.java          # Custom implementation
-    ├── Solution_232_ImplementQueueUsingStacks.java
-    └── Solution_933_NumberOfRecentCalls.java
+├── queues/
+│   ├── MyQueue.java          # Custom implementation
+│   ├── Solution_232_ImplementQueueUsingStacks.java
+│   └── Solution_933_NumberOfRecentCalls.java
+├── hashmaps/
+│   ├── MyHashMap.java        # Custom implementation
+│   ├── Solution_1_TwoSum.java
+│   ├── Solution_49_GroupAnagrams.java
+│   └── Solution_217_ContainsDuplicate.java
+└── trees/
+    ├── TreeNode.java         # Shared node class
+    ├── MyBinaryTree.java     # Custom BST implementation
+    ├── Solution_94_InorderTraversal.java
+    ├── Solution_100_SameTree.java
+    ├── Solution_104_MaxDepth.java
+    ├── Solution_144_PreorderTraversal.java
+    ├── Solution_145_PostorderTraversal.java
+    ├── Solution_226_InvertTree.java
+    └── Solution_572_SubtreeOfAnotherTree.java
 ```
 
 ## Progress
@@ -31,11 +46,13 @@ src/
 |----------------|--------|----------|
 | Linked Lists | ✓ Complete | 141, 142, 206 |
 | Stacks | ✓ Complete | 020, 155, 739 |
-| Queues | In Progress | 933, 232 |
-| Hash Tables | Not Started | |
-| Trees | Not Started | |
+| Queues | ✓ Complete | 232, 933 |
+| Hash Tables | ✓ Complete | 1, 49, 217 |
+| Trees | In Progress | 94, 100, 104, 144, 145, 226, 572 |
 | Heaps | Not Started | |
 | Graphs | Not Started | |
+
+**Total: 18/150**
 
 ## Running
 
