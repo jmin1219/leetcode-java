@@ -33,11 +33,16 @@ src/
     ├── MyBinaryTree.java     # Custom BST implementation
     ├── Solution_94_InorderTraversal.java
     ├── Solution_100_SameTree.java
+    ├── Solution_102_LevelOrderTraversal.java
     ├── Solution_104_MaxDepth.java
+    ├── Solution_107_LevelOrderTraversalII.java
     ├── Solution_144_PreorderTraversal.java
     ├── Solution_145_PostorderTraversal.java
+    ├── Solution_199_RightSideView.java
     ├── Solution_226_InvertTree.java
     └── Solution_572_SubtreeOfAnotherTree.java
+└── heaps/
+    └── MyHeap.java           # Custom max-heap implementation
 ```
 
 ## Progress
@@ -48,11 +53,11 @@ src/
 | Stacks | ✓ Complete | 020, 155, 739 |
 | Queues | ✓ Complete | 232, 933 |
 | Hash Tables | ✓ Complete | 1, 49, 217 |
-| Trees | In Progress | 94, 100, 104, 144, 145, 226, 572 |
-| Heaps | Not Started | |
+| Trees | ✓ Complete | 94, 100, 102, 104, 107, 144, 145, 199, 226, 572 |
+| Heaps | In Progress | MyHeap built |
 | Graphs | Not Started | |
 
-**Total: 18/150**
+**Total: 21/150**
 
 ## Running
 
